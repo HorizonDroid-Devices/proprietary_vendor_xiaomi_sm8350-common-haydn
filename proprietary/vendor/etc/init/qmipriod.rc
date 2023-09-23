@@ -2,7 +2,7 @@
 # All Rights Reserved.
 # Confidential and Proprietary - Qualcomm Technologies, Inc.
 
-service vendor.qmipriod /system/vendor/bin/qmipriod
+service vendor.qmipriod /vendor/bin/qmipriod
     class main
     user radio
     group radio
